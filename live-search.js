@@ -1,4 +1,3 @@
-<script>
 /*! AJAX Search Widget for Blogger V2 <https://dte-project.github.io/blogger/search.html> */
 /* Giữ live-search khi gõ; Enter sẽ chuyển trang kết quả (không chặn submit) */
 !function(e,t){
@@ -180,4 +179,5 @@ function(e,t){
     v(P,"ready",[D,X])
   }
 }(window,document);
-</script>
+
+
